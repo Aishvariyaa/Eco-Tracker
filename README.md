@@ -38,24 +38,17 @@ EcoTrack is a modern, eco-conscious web application landing page designed to pro
 
 ---
 
-## 📸 Screenshots
-
-### App Preview Carousel
-![App Screenshot](image/image2.jpg)
-
----
-
 ## 🔧 How to Use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ecotrack-landing-page.git
+   git clone https://github.com/Aishvariyaa/Eco-Tracker.git
 ````
 
 2. Navigate to the project directory:
 
    ```bash
-   cd ecotrack-landing-page
+   cd Eco-Tracker
    ```
 3. Open `index.html` in any modern browser:
 
@@ -76,7 +69,7 @@ For support or inquiries, feel free to email us:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
 
 ---
 
