@@ -2,8 +2,6 @@
 
 EcoTrack is a modern, eco-conscious web application landing page designed to promote a sustainability tracker mobile app. It educates users on how to reduce their carbon footprint and inspires them to take actionable steps toward a greener future.
 
-![Hero Section Preview](image/image1.jpg)
-
 ---
 
 ## 🚀 Features
