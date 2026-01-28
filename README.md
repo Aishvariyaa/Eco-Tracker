@@ -1,35 +1,35 @@
-# 🌱 EcoTrack - Sustainability Tracker App
+# EcoTrack - Sustainability Tracker App
 
 EcoTrack is a modern, eco-conscious web application landing page designed to promote a sustainability tracker mobile app. It educates users on how to reduce their carbon footprint and inspires them to take actionable steps toward a greener future.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🌱 **Daily CO₂ Tracker**  
+-  **Daily CO₂ Tracker**  
   Automatically logs your carbon footprint based on your daily activities.
 
-- 🎁 **Rewards System**  
+-  **Rewards System**  
   Earn badges and rewards for eco-friendly actions.
 
-- 🌳 **Tree-Planting Contribution**  
+-  **Tree-Planting Contribution**  
   Support global reforestation every time you achieve your goals.
 
-- 📈 **Real-time Impact Tracker**  
+-  **Real-time Impact Tracker**  
   Visualize how your actions contribute to a healthier planet.
 
-- 🖼️ **Interactive Carousel**  
+-  **Interactive Carousel**  
   Showcases app screens and key UI highlights.
 
-- 📊 **Impact Statistics**  
+-  **Impact Statistics**  
   Displays global stats like trees planted, plastic saved, and countries using EcoTrack.
 
-- 💬 **User Testimonials**  
+-  **User Testimonials**  
   Encouraging words from real users of the app.
 
 ---
 
-## 🧑‍💻 Technologies Used
+##  Technologies Used
 
 - HTML5 & CSS3
 - Bootstrap 5.3.6
@@ -38,7 +38,7 @@ EcoTrack is a modern, eco-conscious web application landing page designed to pro
 
 ---
 
-## 🔧 How to Use
+##  How to Use
 
 1. Clone the repository:
    ```bash
@@ -56,18 +56,11 @@ EcoTrack is a modern, eco-conscious web application landing page designed to pro
    open index.html
    ```
 
-> 💡 Make sure to replace image paths (`image/image1.jpg`, etc.) with your actual app screenshots.
+>  Make sure to replace image paths (`image/image1.jpg`, etc.) with your actual app screenshots.
 
 ---
 
-## 📬 Contact
-
-For support or inquiries, feel free to email us:
-📧 [support@ecotrack.app](mailto:support@ecotrack.app)
-
----
-
-## 📄 License
+##  License
 
 This project is licensed under the MIT License 
 
