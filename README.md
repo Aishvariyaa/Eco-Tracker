@@ -59,14 +59,14 @@ EcoTrack is a modern, eco-conscious web application landing page designed to pro
 >  Make sure to replace image paths (`image/image1.jpg`, etc.) with your actual app screenshots.
 
 ---
-
+````
 ##  License
 
 This project is licensed under the MIT License 
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 Thanks to the open-source community and Bootstrap team for enabling rapid and responsive web development.
 
